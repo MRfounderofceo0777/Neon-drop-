@@ -1,11 +1,19 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Neon drop",
-  "orientation": "any",
-  "scope": "/",
+  "name": "Neon Drop",
   "short_name": "Neon Drop",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "description": "Fast-paced neon drop arcade puzzle game.",
+  "start_url": "/Neon-drop-/",
+  "scope": "/Neon-drop-/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
