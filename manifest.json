@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Neon drop",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Neon Drop",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
